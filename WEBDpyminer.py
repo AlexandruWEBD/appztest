@@ -19,8 +19,7 @@ pp = pprint.PrettyPrinter(indent=4)
 class WEBDRPC:
 	OBJID = 1
 
-	def __init__(self, host, port, username, password):
-		authpair = "%s:%s" % (username, password)
+	def __init__(self, host, port,):
 		self.authhdr = "Basic %s" % (base64.b64encode(authpair))
 		self.conn = httplib.HTTPConnection(host, port, False, 30)
 	def rpc(self, method, params=None):
