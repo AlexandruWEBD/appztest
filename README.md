@@ -86,3 +86,18 @@ License
 Distributed under the [MIT software license](/COPYING).
 This product includes software developed by the OpenSSL Project for use in the [OpenSSL Toolkit](https://www.openssl.org/). This product includes
 cryptographic software written by Eric Young ([eay@cryptsoft.com](mailto:eay@cryptsoft.com)), and UPnP software written by Thomas Bernard.
+
+
+Donate to help on infrastructure.
+
+BTC: 375PzMAxHG1Gy7P5enBVRPDFqi2WbnzZQW
+
+BCH: qppuxt44a2jwsaz7n9hv97u2mxxca3ws8qup0as9tz
+
+ETH: 0x9FaaCE9d33aBFFbEcc48F52a20ECcd01bC84a420
+
+WEBD: WEBD$gAN#6nVfXEtkrjS3fvD$1naPoQ6H4jye5b$
+
+litecoin:MBT84jsFfd5TPxnBbVQw12Jx4N2oeUTWiW
+
+XRP rCoinaUERUrXb1aA7dJu8qRcmvPNiKS3d
